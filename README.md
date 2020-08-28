@@ -1,2 +1,4 @@
 # projeto-CursoEuprogrAMO-Programaria
-Projeto elaborado durante o curso Programaria: "Eu programo".
+
+
+Site desenvolvido durante o curso da Programaria: Eu Progr{amo}
